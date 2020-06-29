@@ -200,13 +200,13 @@ a:hover {
   position: absolute;
   width: 136px;
   height: 30px;
-  left: 742px;
+  left: 732px;
   top: 440px;
 
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 30px;
   /* identical to box height, or 187% */
 
@@ -216,5 +216,5 @@ a:hover {
   letter-spacing: 0.06em;
 
   color: #ffffff;
-  background: rgba(0, 0, 0, 0);
+  background: transparent;
 }
